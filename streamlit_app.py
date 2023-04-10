@@ -9,8 +9,9 @@ import requests
 alt.themes.enable('dark')
 
 # Load data
-csv_url = os.environ['https://drive.google.com/file/d/18KyU3ledRA2kU7ZF4_B7xfFacqaZGehx/view?usp=share_link']
+csv_url = os.environ['MY_CSV_URL']
 df = pd.read_csv(csv_url)
+
 
 ## TOTAL ACTIVITIES PAGE ##
 # Define function to show Total Activities page
