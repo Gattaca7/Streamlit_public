@@ -9,7 +9,7 @@ import requests
 alt.themes.enable('dark')
 
 # Load data
-csv_url = os.environ['MY_CSV_URL']
+csv_url = st.secrets["google_drive"]["MY_CSV_URL"]
 df = pd.read_csv(csv_url)
 
 
