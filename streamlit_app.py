@@ -8,7 +8,7 @@ import requests
 st.set_page_config(page_title="Strava Activities", page_icon=":runner:", layout="centered")
 
 #upload File
-uploaded_file = st.file_uploader("Choose a file", type="csv")
+uploaded_file = st.file_uploader("data.csv", type="csv")
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
 
