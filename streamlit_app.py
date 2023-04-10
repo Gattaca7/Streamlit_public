@@ -2,12 +2,14 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 from altair_saver import save
+import os
 
 # Enable dark theme
 alt.themes.enable('dark')
 
 # Load data
-df = pd.read_csv("all_activities_no_duplicates.csv")
+csv_url = os.environ['https://drive.google.com/file/d/18KyU3ledRA2kU7ZF4_B7xfFacqaZGehx/view?usp=share_link']
+df = pd.read_csv(csv_url)
 
 ## TOTAL ACTIVITIES PAGE ##
 # Define function to show Total Activities page
