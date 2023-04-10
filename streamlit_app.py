@@ -4,6 +4,9 @@ import altair as alt
 import os
 import requests
 
+# Render app
+st.set_page_config(page_title="Strava Activities", page_icon=":runner:", layout="centered")
+
 #upload File
 uploaded_file = st.file_uploader("Choose a file", type="csv")
 if uploaded_file is not None:
@@ -88,9 +91,6 @@ def show_leaderboard():
     st.table(longest_run)
     st.subheader("Most Total Distance")
     st.table(total_distance)
-
-# Render app
-st.set_page_config(page_title="Strava Activities", page_icon=":runner:", layout="centered")
 
 # Add a sidebar with page selection and dark mode toggle button
 st.sidebar.title("Settings")
