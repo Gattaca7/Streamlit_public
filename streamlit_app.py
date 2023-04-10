@@ -18,7 +18,7 @@ alt.themes.enable('dark')
 
 ## ABOUT THE APP ##
 def show_about_the_app():
-    st.write("Welcome to the Umpify app, designed to visualize the activity of SANFL umpires. This app collects data from the SANFL Umpires Group on Strava, including run name, time, distance, and elevation, to provide an overview of umpire activity. At Umpify, we're committed to continuous improvement. Here are the next few features we're planning to add to make the app even better: Round by round with slider page: This feature will allow users to see whether umpires are running more on average in Round 5 than Round 6, and so on. Map page: Using the titles of the runs, we can figure out which ground the match day runs were at. We want to have a map that shows each ground, making it easier to track umpire activity at specific locations. General tidying: We're always looking to streamline the app and make it more user-friendly, so we'll be conducting general tidying and improvements to ensure the app runs smoothly. Login: We'll be adding a login feature to make it easier for users to access their data and ensure their privacy. Thank you for checking out the Umpify app! If you have any suggestions or would like to help improve the app, please don't hesitate to contact us at umpify@gmail.com.")
+    st.write("Welcome to the Umpify app")
 
 ## TOTAL ACTIVITIES PAGE ##
 # Define function to show Total Activities page
