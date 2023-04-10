@@ -8,8 +8,7 @@ import requests
 alt.themes.enable('dark')
 
 # Load data
-csv_url = st.secrets["google_drive"]["MY_CSV_URL"]
-df = pd.read_csv(csv_url)
+df = pd.read_csv("data.csv")
 
 ## TOTAL ACTIVITIES PAGE ##
 # Define function to show Total Activities page
