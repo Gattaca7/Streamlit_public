@@ -4,6 +4,9 @@ import altair as alt
 import os
 import requests
 
+#upload File
+uploaded_file = st.file_uploader("data.csv", type="csv")
+
 # Enable dark theme
 alt.themes.enable('dark')
 
