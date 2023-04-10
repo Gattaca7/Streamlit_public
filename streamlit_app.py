@@ -3,6 +3,7 @@ import pandas as pd
 import altair as alt
 from altair_saver import save
 import os
+import requests
 
 # Enable dark theme
 alt.themes.enable('dark')
