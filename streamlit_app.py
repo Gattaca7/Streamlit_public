@@ -10,7 +10,7 @@ st.set_page_config(page_title="Strava Activities", page_icon=":runner:", layout=
 #upload File
 #uploaded_file = st.file_uploader("data.csv", type="csv")
 #if uploaded_file is not None:
-url = "https://drive.google.com/file/d/18KyU3ledRA2kU7ZF4_B7xfFacqaZGehx/view?usp=sharing"
+url = "https://drive.google.com/uc?id=18KyU3ledRA2kU7ZF4_B7xfFacqaZGehx"
 df = pd.read_csv(url)
 
 # Enable dark theme
