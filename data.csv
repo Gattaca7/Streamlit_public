@@ -1,0 +1,225 @@
+resource_state,name,distance,moving_time,elapsed_time,total_elevation_gain,type,sport_type,workout_type,athlete.resource_state,athlete.firstname,athlete.lastname,group,round
+2,Morning Run,1849.3,555,555,26.0,Run,Run,,2,Oakley,N.,boundary,
+2,Morning Run,8019.7,2423,2570,27.0,Run,Run,0.0,2,Josh,H.,field,
+2,Morning Run,8054.2,2156,2285,64.0,Run,Run,,2,Bryce,G.,field,
+2,Morning Run,8375.6,2460,2476,100.0,Run,Run,0.0,2,Zachariah,A.,,
+2,Morning Run,2845.3,746,935,35.0,Run,Run,,2,Oakley,N.,boundary,
+2,Morning Run,3812.2,1012,1714,34.0,Run,Run,0.0,2,Taylah,P.,boundary,
+2,Morning Run,14012.0,4312,4312,64.0,Run,Run,0.0,2,Matthew,Z.,boundary,
+2,The Time-poor session ,8932.9,2411,2411,73.0,Run,Run,3.0,2,Shane,T.,boundary,
+2,Easter Longy - On Safari ,18078.7,5507,5622,349.0,Run,Run,0.0,2,Ben,T.,field,
+2,Easy halfa ,6498.8,1809,1883,47.0,Run,Run,0.0,2,Shane,T.,boundary,
+2,Easy Sunday stroll,6291.3,1936,1985,25.0,Run,Run,0.0,2,Brayden,T.,boundary,
+2,Lunch Run,5530.9,1429,1468,35.6,Run,Run,0.0,2,Bryce,G.,field,
+2,Easter Sunday Long Run,12008.4,3597,3597,100.5,Run,Run,0.0,2,Jake,C.,field,
+2,Morning Run,10049.6,2635,2706,37.2,Run,Run,,2,Alex,R.,field,
+2,5km tempo,5034.0,1328,1395,31.0,Run,Run,0.0,2,Taylah,P.,boundary,5.0
+2,Why don’t you see dinosaurs at Easter? Because they’re eggs-tinct…,25018.7,7337,8257,548.0,Run,TrailRun,0.0,2,Isaac,F.,boundary,
+2,Morning Run,3012.4,642,642,3.0,Run,Run,,2,Jake,B.,field,
+2,Morning Run,3002.0,794,804,44.0,Run,Run,,2,Oakley,N.,boundary,
+2,On Tour!,11479.3,3489,3510,169.0,Run,Run,0.0,2,Ben,T.,field,
+2,Afternoon Run,3342.1,937,10842,32.4,Run,Run,0.0,2,Bryce,G.,field,
+2,Afternoon Run,2504.2,757,765,15.0,Run,Run,,2,Tom,K.,field,
+2,Afternoon Stepn/Defit Run - kids duty at playground,19611.3,6134,6203,177.3,Run,Run,0.0,2,Moroker,Y.,boundary,
+2,Afternoon Run,4105.0,841,841,25.0,Run,Run,,2,Tom,K.,field,
+2,Afternoon Run,4330.3,1937,2110,41.0,Run,Run,,2,Tom,K.,field,
+2,Afternoon Run,2010.0,618,618,12.0,Run,Run,,2,Oakley,N.,boundary,
+2,Huge 2 weeks,11045.3,3000,3199,42.0,Run,Run,0.0,2,Zachariah,A.,,2.0
+2,Afternoon Run,2739.2,704,755,33.0,Run,Run,,2,Oakley,N.,boundary,
+2,Morning Run,2256.2,708,711,2.0,Run,Run,,2,Josh,H.,field,
+2,Morning Run,7619.6,1929,2019,18.0,Run,Run,0.0,2,Josh,H.,field,
+2,Morning Run,2967.9,906,908,10.0,Run,Run,,2,Josh,H.,field,
+2,Parkrun + 1 with ZDJ ,6012.0,1705,1705,21.8,Run,Run,0.0,2,Jake,C.,field,1.0
+2,"I just discovered that I can cut wood with my eyes, I know it’s hard to believe, but I saw it with my own 2 eyes…",13715.0,4408,4499,462.0,Run,TrailRun,0.0,2,Isaac,F.,boundary,2.0
+2,Foster Parkrun,4967.4,1967,1995,35.0,Run,Run,0.0,2,Patrick,L.,,
+2,Morning Run,9937.8,3417,3690,181.4,Run,Run,,2,Alex,R.,field,
+2,Morning Run,8911.2,2473,2782,47.0,Run,Run,0.0,2,Shane,T.,boundary,
+2,Afternoon Run,9597.9,3041,3583,83.8,Run,Run,,2,Alex,R.,field,
+2,SANFL League R2 // Glenelg vs Port,12373.5,6578,8515,84.0,Run,Run,0.0,2,Brayden,T.,boundary,2.0
+2,Afternoon Run,12482.0,6536,8497,34.0,Run,Run,,2,Harrison,H.,field,
+2,Afternoon Run,4518.1,1335,2273,59.0,Run,Run,,2,Oakley,N.,boundary,
+2,cold n wet ,7020.8,1985,3162,52.0,Run,Run,0.0,2,Taylah,P.,boundary,
+2,League Round 2 - Bays v Port (3 Ump),13466.7,7972,12008,64.0,Run,Run,0.0,2,Dylan,S.,boundary,2.0
+2,Afternoon Run,8638.9,2582,2704,41.0,Run,Run,,2,Tom,K.,field,
+2,AFL Rd 4 @ Marvel - Kangas v Blues,20400.0,8880,8880,0.0,Run,Run,3.0,2,Shane,T.,boundary,4.0
+2,"League West v Adelaide
+3 umpires",12320.9,3956,8733,121.0,Run,Run,0.0,2,Bradley,A.,boundary,3.0
+2,SANFL Round 2 | League - South Adelaide v Eagles (Flinders University Stadium),14352.9,8787,9658,59.0,Run,Run,0.0,2,Aaron,B.,field,2.0
+2,Afternoon Run,13850.3,7257,12078,119.0,Run,Run,,2,Dylan,W.,boundary,
+2,"Does anyone know a dog park without ducks?
+My pure bread dog doesn’t get along with ducks…",12197.0,6762,12081,88.0,Run,Run,0.0,2,Isaac,F.,boundary,
+2,League Rd 2 - West v Adelaide (3 umpire),14842.0,7137,12345,47.0,Run,Run,0.0,2,Matthew,Z.,boundary,2.0
+2,SANFLW development league Glenelg vs Norwood ,7643.8,3955,6497,373.0,Run,Run,0.0,2,James,B.,field,
+2,Lunch Run,1013.3,299,320,22.0,Run,Run,,2,James,B.,field,
+2,didn’t feel the best. getting the kms in ,4001.2,1069,1125,32.0,Run,Run,0.0,2,Eli,M.,,
+2,Reserves - Centrals vs North Adelaide. ,11775.9,6033,8133,116.3,Run,Run,0.0,2,Jake,C.,field,
+2,SANFL Reserves Round 2: South vs Eagles,12354.3,5865,8497,76.0,Run,Run,0.0,2,Tobin,D.,boundary,2.0
+2,SANFL Reserves @ Richmond ,11494.7,6266,8320,0.0,Run,Run,0.0,2,Daniel,W.,field,
+2,SANFL Reserves Round Two,12568.5,6296,8324,101.0,Run,Run,0.0,2,Zac,P.,field,
+2,Morning Run,1828.4,664,745,16.8,Run,Run,,2,Jake,C.,field,
+2,BU 273 - SANFL U16 R3,10287.6,4248,8992,0.0,Run,Run,0.0,2,Moroker,Y.,boundary,273.0
+2,Morning Run,6017.6,2005,2055,23.0,Run,Run,0.0,2,Josh,H.,field,
+2,CD,4765.2,1357,2324,21.0,Run,Run,0.0,2,Zachariah,A.,,
+2,ROA TT,5069.9,967,967,34.0,Run,Run,0.0,2,Zachariah,A.,,
+2,Booti Booti Trail Run,9008.6,4699,4978,201.0,Run,TrailRun,0.0,2,Patrick,L.,,
+2,WU,2696.0,781,2637,10.0,Run,Run,0.0,2,Zachariah,A.,,
+2,Evening Run,11081.0,6100,8186,66.0,Run,Run,,2,James,B.,field,
+2,Evening Run,14196.7,5561,8270,144.0,Run,Run,,2,Jake,B.,field,
+2,Norwood vs Sturt ,13674.2,7974,9548,68.0,Run,Run,0.0,2,Josh,H.,field,
+2,Rd 3 U18 Tiges v Bloods,11679.3,8072,8917,83.0,Run,Run,0.0,2,Ben,T.,field,3.0
+2,WU,912.7,235,387,13.0,Run,Run,0.0,2,Ben,T.,field,
+2,Evening Run,2136.9,653,702,12.0,Run,Run,,2,Josh,H.,field,
+2,"I met a guy at work today who said he was Harry Potter’s godfather, I didn’t believe him until he said he was Sirius…",6052.3,1801,1801,45.0,Run,Run,0.0,2,Isaac,F.,boundary,
+2,Evening Run,5541.5,5836,6659,117.0,Run,Run,,2,Zack,B.,field,
+2,Thursday,12444.8,3804,4067,56.0,Run,Run,0.0,2,Tom,K.,field,
+2,BU 272 - SANFL U16 R3,10973.0,4377,7636,92.5,Run,Run,0.0,2,Moroker,Y.,boundary,272.0
+2,SANFL Reserves Round Two,12165.1,6259,8336,67.0,Run,Run,0.0,2,Zac,P.,field,
+2,SANFL Reserves @ The Parade,11894.6,6303,8356,2.2,Run,Run,0.0,2,Daniel,W.,field,
+2,Pre game-day jog and throws w Kaitlin ,6584.2,1870,3177,54.0,Run,Run,0.0,2,Shane,T.,boundary,
+2,Afternoon Run,5241.9,1405,1420,22.0,Run,Run,,2,Eli,M.,,
+2,Treadmill 30’,6700.0,1860,1860,0.0,Run,Run,0.0,2,Zachariah,A.,,30.0
+2,Evening Run,3198.3,822,822,5.0,Run,Run,,2,Jake,B.,field,
+2,SANFL Training ,5005.7,1616,1616,9.0,Run,Run,0.0,2,Zac,P.,field,
+2,SANFL Training #16,5562.3,1803,1803,8.2,Run,Run,0.0,2,Daniel,W.,field,16.0
+2,Evening Run,7004.8,1878,3233,4.7,Run,Run,,2,Jake,C.,field,
+2,SANFL Training #16,3832.2,1337,3094,2.4,Run,Run,0.0,2,Aaron,B.,field,16.0
+2,Evening Run,5036.9,1803,2750,41.0,Run,Run,,2,Harrison,H.,field,
+2,Evening Run,5370.3,3455,4918,11.1,Run,Run,,2,Alex,R.,field,
+2,Wd,2620.6,806,810,16.0,Run,Run,0.0,2,Tom,K.,field,
+2,SANFL Training ,6671.8,1829,3445,21.0,Run,Run,0.0,2,Tobin,D.,boundary,
+2,"Sanfl: WU / 2 x 2’, 3 x 1’, 4 x 30 / CD",5092.1,1333,3436,19.0,Run,Run,0.0,2,Taylah,P.,boundary,2.0
+2,Afternoon Run,7029.0,2211,2221,2.0,Run,Run,,2,Thomas,C.,field,
+2,3x1k at race pace effort + 4x200,5112.9,1187,1505,25.0,Run,Run,0.0,2,Tom,K.,field,3.0
+2,"I took part in a race in Finland, I didn’t win, but I did Finnish…",6046.4,1789,1792,14.0,Run,Run,0.0,2,Isaac,F.,boundary,
+2,"WU
+2x 2mins
+3x 1min
+4x 30
+60 sec jog in between  
+4 strides
+CD
+(Accidentally hit start at some point on watch during throw throw ins without realising 😒) 
+",6540.6,1736,6929,7.0,Run,Run,0.0,2,Bradley,A.,boundary,2.0
+2,Afternoon Run,6011.1,1818,4266,24.0,Run,Run,,2,Oakley,N.,boundary,
+2,Pre game shakeout + strides ,6199.8,1802,1802,19.0,Run,Run,0.0,2,Ben,T.,field,
+2,WU // 2 x 2min - 3 x 60s - 4 x 30s // 4 Strides // WD,11217.7,3187,6305,32.0,Run,Run,0.0,2,Brayden,T.,boundary,2.0
+2,Afternoon Run,9784.1,2727,6298,26.0,Run,Run,,2,Dylan,W.,boundary,
+2,Wu,4033.0,1748,1787,15.0,Run,Run,0.0,2,Tom,K.,field,
+2,Picking 🚗 up,4422.3,1231,1427,15.0,Run,Run,0.0,2,Shane,T.,boundary,
+2,FU 274,5240.6,3635,4666,0.0,Run,Run,0.0,2,Moroker,Y.,boundary,274.0
+2,Dropping 🚗 off,4735.3,1338,1943,30.0,Run,Run,0.0,2,Shane,T.,boundary,
+2,Pretty grim,8965.0,2401,2862,54.0,Run,Run,0.0,2,Zachariah,A.,,
+2,Morning Run,10023.4,3326,3396,32.0,Run,Run,,2,Josh,H.,field,
+2,Morning Run,9006.8,2746,2888,15.7,Run,Run,,2,Alex,R.,field,
+2,Morning Stepn/Defit Run,19125.2,6060,6144,116.0,Run,Run,0.0,2,Moroker,Y.,boundary,
+2,Evening Run,4009.9,1174,1800,170.0,Run,Run,,2,James,B.,field,
+2,Nice 40 after sickness 🤢,8645.4,2386,2723,14.0,Run,Run,0.0,2,Bradley,A.,boundary,40.0
+2,"I drove my Subaru fast past a girl the other day,
+Was trying to Impreza…",10173.8,2978,3046,95.0,Run,Run,0.0,2,Isaac,F.,boundary,
+2,Tuesday night run,10009.7,2986,2987,30.5,Run,Run,0.0,2,Jake,C.,field,
+2,Solo sesh,11009.6,3030,3600,72.0,Run,Run,0.0,2,Ben,T.,field,
+2,Afternoon Run,3859.1,1096,2177,25.0,Run,Run,,2,Oakley,N.,boundary,
+2,Afternoon Run,2737.2,551,642,18.0,Run,Run,,2,Oakley,N.,boundary,
+2,UT @ Marvel - T2,8200.0,2340,2340,0.0,Run,Run,3.0,2,Shane,T.,boundary,2.0
+2,Afternoon Run,4315.3,1933,3300,8.0,Run,Run,,2,Gianny,S.,boundary,
+2,Afternoon Run,2986.5,739,739,19.0,Run,Run,,2,Oakley,N.,boundary,
+2,Afternoon Defit Run,5963.2,1825,1963,24.1,Run,Run,0.0,2,Moroker,Y.,boundary,
+2,Lunch Run,1806.6,568,761,2.1,Run,Run,0.0,2,Moroker,Y.,boundary,
+2,WEIR AM I GOING? ,8123.0,2325,2410,30.0,Run,Run,0.0,2,will,W.,,
+2,Morning Run,6016.8,1967,2413,11.0,Run,Run,,2,Josh,H.,field,
+2,Tuesday ,10007.0,2836,3584,52.0,Run,Run,0.0,2,Tom,K.,field,
+2,Morning Run,8251.7,2242,2327,32.2,Run,Run,,2,Alex,R.,field,
+2,RAO Melb crew 🧡 🖤,11360.3,3648,4810,76.0,Run,Run,0.0,2,Shane,T.,boundary,
+2,Evening Run,997.1,334,478,48.0,Run,Run,,2,James,B.,field,
+2,Very slow recovery run,4770.3,1609,2886,7.0,Run,Run,0.0,2,Jake,C.,field,
+2,SANFL Training #15,4082.8,1137,2626,2.3,Run,Run,0.0,2,Daniel,W.,field,15.0
+2,Afternoon Run,5352.5,1539,2252,24.0,Run,Run,,2,Harrison,H.,field,
+2,Afternoon Run,7441.6,2241,4993,13.3,Run,Run,,2,Moroker,Y.,boundary,
+2,Afternoon Run,3008.7,818,2362,11.0,Run,Run,,2,Taylah,P.,boundary,
+2,"SANFL Training #15 - WU | 3 sets of 4 x 60 sec effort, 22 secs recovery, 5 secs burst, 22 sec recovery | WD",4800.0,1412,3008,2.2,Run,Run,0.0,2,Aaron,B.,field,15.0
+2,Afternoon Run,7815.9,2412,3041,48.0,Run,Run,0.0,2,Martin,E.,,
+2,"What do you call Batman after losing a fight? 
+Bruised Wayne…",10166.9,3022,3022,94.0,Run,Run,0.0,2,Isaac,F.,boundary,
+2,SANFL Training ,9229.6,2999,4355,23.0,Run,Run,0.0,2,Zac,P.,field,
+2,Afternoon Run,6601.0,2351,4847,14.0,Run,Run,,2,Gianny,S.,boundary,
+2,Afternoon Run,7630.9,2327,6219,4.1,Run,Run,0.0,2,James,B.,field,
+2,Recovery Run,7033.6,2198,4737,20.0,Run,Run,0.0,2,Matthew,Z.,boundary,
+2,WU // 8 x 60s - 22s rest - 5s sprint - 22s rest // WD,9421.2,2688,5818,27.0,Run,Run,0.0,2,Brayden,T.,boundary,8.0
+2,Afternoon Run,11147.7,3058,7163,34.0,Run,Run,,2,Dylan,W.,boundary,
+2,Afternoon Run,7062.3,2100,4865,28.0,Run,Run,,2,Oakley,N.,boundary,
+2,Monday 10k'er,10101.4,2731,2761,75.0,Run,Run,0.0,2,Shane,T.,boundary,10.0
+2,Lunch Stepn Run,9685.1,2892,2920,54.7,Run,Run,0.0,2,Moroker,Y.,boundary,
+2,Pearler longy ☀️,18033.8,5402,5510,59.0,Run,Run,0.0,2,Josh,H.,field,
+2,Morning Run,5566.9,1648,1756,8.5,Run,Run,,2,Alex,R.,field,
+2,Sunday,20203.1,5877,6112,93.0,Run,Run,0.0,2,Tom,K.,field,
+2,Under 16s - Eagles v Norwood. ,12095.6,5620,7607,0.0,Run,Run,0.0,2,Jake,C.,field,16.0
+2,SANFL U18 Round 2: Glenelg vs Sturt,11838.4,6062,8163,44.0,Run,Run,0.0,2,Tobin,D.,boundary,18.0
+2,Afternoon Run,12962.2,4952,8266,34.0,Run,Run,,2,Jake,B.,field,
+2,U18 Rd 2 Tiges v Doublas,10614.5,4347,8889,55.0,Run,Run,0.0,2,Ben,T.,field,18.0
+2,Lunch Run,1004.3,300,333,0.0,Run,Run,0.0,2,Jake,C.,field,
+2,Double up weekend - U18s (3 ump),12293.7,6900,10538,58.0,Run,Run,0.0,2,Dylan,S.,boundary,18.0
+2,WU,654.4,285,441,3.0,Run,Run,0.0,2,Ben,T.,field,
+2,umpiring ,6384.1,3261,6013,63.0,Run,Run,0.0,2,Eli,M.,,
+2,Lunch Run,10352.3,6159,8233,49.0,Run,Run,,2,James,B.,field,
+2,BU 371 - SANFL U16 R2 - beautiful day,11058.9,4325,8130,0.0,Run,Run,0.0,2,Moroker,Y.,boundary,371.0
+2,Under 16 round 2 Glenelg Vs Sturt ,10014.0,5316,8251,55.0,Run,Run,0.0,2,James,B.,field,16.0
+2,Recovery Run,6988.7,2485,2485,47.0,Run,Run,0.0,2,Zac,P.,field,
+2,U18 Round 2 - WWT v Norwood,13028.0,6687,10430,20.0,Run,Run,0.0,2,Matthew,Z.,boundary,18.0
+2,Morning Run,8057.5,2700,2702,29.0,Run,Run,,2,Josh,H.,field,
+2,🧊 ,3046.0,911,985,17.0,Run,Run,0.0,2,Zachariah,A.,,
+2,Morning Run,16026.0,5679,6970,175.1,Run,Run,,2,Alex,R.,field,
+2,FU 273,3112.5,2399,2762,0.0,Run,Run,0.0,2,Moroker,Y.,boundary,273.0
+2,Clare 10,10015.8,2030,2043,58.0,Run,Run,0.0,2,Zachariah,A.,,10.0
+2,Morning Run,4774.6,1734,2177,9.0,Run,Run,,2,Gianny,S.,boundary,
+2,Morning Run,10208.0,2771,2976,41.0,Run,Run,,2,Oakley,N.,boundary,
+2,Easy 30,6308.9,1806,2115,21.0,Run,Run,0.0,2,Taylah,P.,boundary,30.0
+2,Clare Half Marathon ,21260.2,5315,5315,123.0,Run,Run,1.0,2,Patrick,L.,,
+2,🌞 ,2269.5,692,774,26.0,Run,Run,0.0,2,Zachariah,A.,,
+2,"My penis was in the Guinness book of records,
+Until the librarian told me to take it out…",12128.4,4077,4626,444.0,Run,TrailRun,0.0,2,Isaac,F.,boundary,
+2,Afternoon Run,2789.1,851,851,4.0,Run,Run,,2,Tom,K.,field,
+2,Warm down ,1164.5,404,404,5.0,Run,Run,0.0,2,Josh,H.,field,
+2,SANFL Reserves @ Prospect,11419.8,6497,7902,0.0,Run,Run,0.0,2,Daniel,W.,field,
+2,Fartlek,7647.5,1566,1566,25.0,Run,Run,0.0,2,Tom,K.,field,
+2,Afternoon Run,15206.2,7148,13091,80.0,Run,Run,,2,Oakley,N.,boundary,
+2,SANFL Round 1 | League - Port Adelaide v Adelaide Crows (Adelaide Oval),14934.3,8668,10012,0.0,Run,Run,0.0,2,Aaron,B.,field,1.0
+2,SANFL - Port Vs Crows,17824.1,10157,11674,85.0,Run,Run,0.0,2,Martin,E.,,
+2,Afternoon Run,13474.5,6770,8929,37.0,Run,Run,,2,Harrison,H.,field,
+2,Sturt vs Glenelg ,11868.3,7018,9289,74.0,Run,Run,0.0,2,Josh,H.,field,
+2,SANFL: Sturt v Glenelg,13764.8,7026,11906,86.0,Run,Run,0.0,2,Dylan,W.,boundary,
+2,What do you call James Bond in a bath tub? Bubble-o 7,14660.3,6916,12095,101.0,Run,Run,0.0,2,Isaac,F.,boundary,7.0
+2,Afternoon Run,13466.7,7972,12008,64.0,Run,Run,,2,Dylan,S.,boundary,
+2,Afternoon Run,7815.9,2412,3041,48.0,Run,Run,0.0,2,Martin,E.,boundary,
+2,Afternoon Run,4805.7,2141,2174,13.0,Run,Run,,2,Tom,K.,field,
+2,SANFL - Port Vs Crows,17824.1,10157,11674,85.0,Run,Run,0.0,2,Martin,E.,boundary,
+2,"League Sturt v Glenelg
+3 umpire",11103.6,3797,8672,60.0,Run,Run,0.0,2,Bradley,A.,boundary,3.0
+2,Warm up ,1869.1,577,1741,5.0,Run,Run,0.0,2,Josh,H.,field,
+2,BU 370 - SANFLW R6,13508.3,5517,9623,9.5,Run,Run,0.0,2,Moroker,Y.,boundary,370.0
+2,Lunch Run,11107.8,6223,8096,285.0,Run,Run,,2,Zack,B.,field,
+2,SANFL Reserves Round One,11717.9,6263,8303,69.0,Run,Run,0.0,2,Zac,P.,field,
+2,SANFL Reserves R1 // South vs Centrals ,11475.2,6281,8270,91.0,Run,Run,0.0,2,Brayden,T.,boundary,1.0
+2,Lunch Run,11191.5,4300,9051,72.0,Run,Run,,2,Gianny,S.,boundary,
+2,6,5996.9,1595,1595,33.0,Run,Run,0.0,2,Zachariah,A.,,6.0
+2,Morning Run,1354.9,557,960,15.0,Run,Run,,2,Gianny,S.,boundary,
+2,SANFLW development league west Adelaide Vs Norwood ,7763.3,3664,6616,369.0,Run,Run,0.0,2,James,B.,field,
+2,Morning Run,1009.8,281,305,6.0,Run,Run,,2,James,B.,field,
+2,Morning Run,11550.2,3425,3539,18.3,Run,Run,,2,Alex,R.,field,
+2,La Park run. ,5054.9,1247,1247,28.0,Run,Run,0.0,2,will,W.,,
+2,Morning Run,5002.6,1066,1066,7.0,Run,Run,,2,Jake,B.,field,
+2,Morning Run,4437.7,1203,1540,20.6,Run,Run,0.0,2,Bryce,G.,field,
+2,Morning Run,7728.8,1917,2475,30.0,Run,Run,3.0,2,Shane,T.,boundary,
+2,Friday ,10433.9,3263,3512,52.0,Run,Run,0.0,2,Tom,K.,field,
+2,FU 272,6260.8,4055,5345,0.0,Run,Run,0.0,2,Moroker,Y.,boundary,272.0
+2,Afternoon Run,5413.0,1501,2058,9.4,Run,Run,,2,Alex,R.,field,
+2,League Round 1 - Legs v Woodville (3 ump),13943.2,7696,12382,66.0,Run,Run,0.0,2,Dylan,S.,boundary,1.0
+2,League Rd 1 - Norwood v WWT (3 umpire),14397.8,7237,12315,33.0,Run,Run,0.0,2,Matthew,Z.,boundary,1.0
+2,Evening Run,5425.9,5688,6507,93.0,Run,Run,,2,Zack,B.,field,
+2,SWFL UT 2,1278.0,805,1489,0.0,Run,Run,0.0,2,Moroker,Y.,boundary,2.0
+2,Afternoon Run,3166.0,852,953,34.6,Run,Run,,2,Bryce,G.,field,
+2,SANFL Reserves Round 1: Norwood vs Eagles,12226.5,6308,7983,68.0,Run,Run,0.0,2,Tobin,D.,boundary,1.0
+2,Reserved - Norwood v Eagles - Rd1,11023.2,6328,8025,2.1,Run,Run,0.0,2,Jake,C.,field,1.0
+2,Afternoon Run,11479.3,3489,3510,169.0,Run,Run,,2,Ben,T.,field,
+2,Afternoon Run,19611.3,6134,6203,177.3,Run,Run,,2,Moroker,Y.,boundary,
+2,"Why don’t you see dinosaurs at Easter? 
+Because they’re eggs-tinct…",25018.7,7337,8257,548.0,Run,TrailRun,0.0,2,Isaac,F.,boundary,
