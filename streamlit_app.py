@@ -13,9 +13,6 @@ st.set_page_config(page_title="Strava Activities", page_icon=":runner:", layout=
 url = "https://drive.google.com/uc?id=1plOBbcq6T6k-VPE0zMPzjyp9fzMoHv1Y"
 df = pd.read_csv(url)
 
-# Enable dark theme
-alt.themes.enable('dark')
-
 ## TOTAL ACTIVITIES PAGE ##
 # Define function to show Total Activities page
 def show_total_activities():
@@ -102,6 +99,11 @@ def show_about_the_app():
 st.sidebar.title("Settings")
 dark_mode = st.sidebar.checkbox("Dark Mode")
 page = st.sidebar.selectbox("Select a page", ["Total Activities", "Map", "Leaderboard", "About the App"])
+
+if dark_mode:
+    alt.themes.enable('dark')
+else:
+    alt.themes.enable('default')
 
 if dark_mode:
     st.markdown("""<style>body {background-color: #2B2B2B;color: white;}</style>""",unsafe_allow_html=True)
