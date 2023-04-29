@@ -7,7 +7,7 @@ import requests
 # Render app
 st.set_page_config(page_title="Strava Activities", page_icon=":runner:", layout="centered")
 
-url = "https://drive.google.com/uc?id=1plOBbcq6T6k-VPE0zMPzjyp9fzMoHv1Y" 
+url = "https://drive.google.com/uc?id=1qcEZp3m_H_j0ZBIP4k0QHA7tb8iDy9pl"  
 df = pd.read_csv(url)
 
 ## TOTAL ACTIVITIES PAGE ##
