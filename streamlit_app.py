@@ -84,6 +84,7 @@ def show_leaderboard():
     total_distance['athlete'] = total_distance['athlete.firstname'] + ' ' + total_distance['athlete.lastname']
     total_distance.drop(['athlete.firstname', 'athlete.lastname'], axis=1, inplace=True)
     total_distance = total_distance.rename(columns={'athlete': 'Athlete'})
+    total_distance['sum'] = total_distance['sum'].apply(lambda x: round(x / 1000, 1)).apply(lambda x: f"{x:.1f}")
     total_distance_no_index = total_distance.reset_index(drop=True)
 
     # Display the tables
@@ -117,6 +118,7 @@ def match_tracker():
             color=alt.Color("group:N", title="Discipline"),
         )
         .properties(title="Average Distance by Round and Discipline")
+        .configure_axis(labelAngle=0)
     )
 
 # display scatter plot in Streamlit app
